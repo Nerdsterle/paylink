@@ -1,5 +1,5 @@
 {
-  "theme": "minimalist-theme",
+  "theme": "business",
 
   "properties": {
     "name": "Anthony Le",
@@ -12,7 +12,7 @@
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "<a href='mailto&#58;%61%&#54;&#69;&#37;&#55;4hony&#64;a%6E%&#55;4&#104;ony&#108;e&#46;%&#54;3&#111;&#109;'>an&#116;h&#111;ny&#64;a&#110;thonyle&#46;com</a>"
+      "link": "mailto&#58;%61%&#54;&#69;&#37;&#55;4hony&#64;a%6E%&#55;4&#104;ony&#108;e&#46;%&#54;3&#111;&#109;'>an&#116;h&#111;ny&#64;a&#110;thonyle&#46;com"
     },
     { "label": "Link", "value": "bx-link", "link": "https://anthonyle.com" },
     {
