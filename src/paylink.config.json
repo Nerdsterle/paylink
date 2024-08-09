@@ -58,6 +58,12 @@
       "img": "./images/payments/venmo.svg"
     }, 
     {
+      "id": "cashapp",
+      "label": "Cashapp",
+      "value": "https://cash.app/$antalyariadon",
+      "img": "./images/payments/cashapp.svg"
+    },
+    {
       "id": "paypal",
       "label": "Paypal",
       "value": "https://paypal.me/nerdster",
