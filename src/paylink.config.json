@@ -44,7 +44,7 @@
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
-    { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "https://wa.me/15034654321" },
+    { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
     { "label": "YouTube", "value": "bxl-youtube", "link": "https://www.youtube.com/@TheAnthonyLe" },
     { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
     { "label": "Newsletter", "value": "bx-mail-send", "link": "" }
