@@ -2,10 +2,10 @@
   "theme": "night",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Anthony Le",
+    "description": "Web Specialist",
+    "alt": "Photo of Anthony Le",
+    "hero": "./images/profile.jpg"
   },
 
   "Social": [
@@ -23,7 +23,7 @@
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://x.com/anthonyle"
     },
     {
       "label": "LinkedIn",
@@ -36,7 +36,7 @@
       "link": "https://instagram.com/dlcastillop"
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
-    { "label": "Facebook", "value": "bxl-facebook", "link": "" },
+    { "label": "Facebook", "value": "bxl-facebook", "link": "https://www.facebook.com/TheAnthonyLe" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
     { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
     { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
@@ -45,7 +45,7 @@
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
     { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
-    { "label": "YouTube", "value": "bxl-youtube", "link": "" },
+    { "label": "YouTube", "value": "bxl-youtube", "link": "https://www.youtube.com/@TheAnthonyLe" },
     { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
     { "label": "Newsletter", "value": "bx-mail-send", "link": "" }
   ],
@@ -90,7 +90,7 @@
     {
       "id": "paypal",
       "label": "Paypal",
-      "value": "",
+      "value": "https://paypal.me/nerdster",
       "img": "./images/payments/paypal.svg"
     },
     {
