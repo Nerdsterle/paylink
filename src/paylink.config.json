@@ -12,7 +12,7 @@
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:anthony@anthonyle.com"
+      "link": ""
     },
     { "label": "Link", "value": "bx-link", "link": "https://anthonyle.com" },
     {
@@ -96,7 +96,7 @@
     {
       "id": "usdt",
       "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -120,7 +120,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
