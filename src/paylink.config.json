@@ -44,7 +44,7 @@
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
-    { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
+    { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "https://wa.me/15034654321" },
     { "label": "YouTube", "value": "bxl-youtube", "link": "https://www.youtube.com/@TheAnthonyLe" },
     { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
     { "label": "Newsletter", "value": "bx-mail-send", "link": "" }
@@ -52,9 +52,15 @@
 
   "Payments": [
     {
+      "id": "paypal",
+      "label": "Paypal",
+      "value": "https://paypal.me/nerdster",
+      "img": "./images/payments/paypal.svg"
+    },
+    {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -78,7 +84,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -86,12 +92,6 @@
       "label": "Litecoin",
       "value": "",
       "img": "./images/payments/ltc.svg"
-    },
-    {
-      "id": "paypal",
-      "label": "Paypal",
-      "value": "https://paypal.me/nerdster",
-      "img": "./images/payments/paypal.svg"
     },
     {
       "id": "usdt",
@@ -114,7 +114,7 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/trx.svg"
     },
     {
