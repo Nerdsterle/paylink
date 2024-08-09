@@ -52,16 +52,16 @@
 
   "Payments": [
     {
-      "id": "paypal",
-      "label": "Paypal",
-      "value": "https://paypal.me/nerdster",
-      "img": "./images/payments/paypal.svg"
-    },
-    {
       "id": "venmo",
       "label": "Venmo",
       "value": "https://venmo.com/Nerdster",
       "img": "./images/payments/venmo.svg"
+    }, 
+    {
+      "id": "paypal",
+      "label": "Paypal",
+      "value": "https://paypal.me/nerdster",
+      "img": "./images/payments/paypal.svg"
     },
     {
       "id": "btc",
